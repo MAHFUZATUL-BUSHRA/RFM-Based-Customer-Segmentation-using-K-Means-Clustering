@@ -21,7 +21,15 @@ The goal is to identify high-value customers, understand purchasing behavior, an
   - Country  
 
 ---
-
+###  🛠️ Tech Stack
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Yellowbrick
+---
 ## ⚙️ Workflow
 
 ### 🔹 Data Preprocessing
@@ -51,22 +59,14 @@ Selected:
 ### 🔹 5. K-Means Clustering
 - Applied KMeans clustering on scaled RFM data
 - Assigned cluster labels to each customer
+---
 
 ####  Means of the clusters:
   ![p](https://github.com/MAHFUZATUL-BUSHRA/RFM-Based-Customer-Segmentation-using-K-Means-Clustering/blob/main/mean.png)
 ####  Segmentations:
   ![p](https://github.com/MAHFUZATUL-BUSHRA/RFM-Based-Customer-Segmentation-using-K-Means-Clustering/blob/main/segmentation.png)
 ####  Groups:  
-  ![p](https://github.com/MAHFUZATUL-BUSHRA/RFM-Based-Customer-Segmentation-using-K-Means-Clustering/blob/main/group.png)
-  
-###  🛠️ Tech Stack
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Yellowbrick
+  ![p](https://github.com/MAHFUZATUL-BUSHRA/RFM-Based-Customer-Segmentation-using-K-Means-Clustering/blob/main/group.png) 
 
 ###  📈 Key Insights
 - 💎 Diamond (23 customers) generate extremely high revenue
