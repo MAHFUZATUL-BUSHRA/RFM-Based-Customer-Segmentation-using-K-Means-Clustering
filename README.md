@@ -8,7 +8,7 @@ The goal is to identify high-value customers, understand purchasing behavior, an
 ---
 
 ## 📂 Dataset
-- Dataset: Online Retail Dataset  ![Data](https://drive.google.com/drive/folders/1WFbydEBn44SZOopSImRq1TDZKBChhdim?usp=drive_link)
+- Dataset: Online Retail Dataset (https://drive.google.com/drive/folders/1WFbydEBn44SZOopSImRq1TDZKBChhdim?usp=drive_link)
 - Total Records: ~541,000 transactions  
 - Features:
   - InvoiceNo
@@ -49,7 +49,9 @@ Selected:
 ### 🔹 5. K-Means Clustering
 - Applied KMeans clustering on scaled RFM data
 - Assigned cluster labels to each customer
-
+  
+  ![p](https://github.com/MAHFUZATUL-BUSHRA/RFM-Based-Customer-Segmentation-using-K-Means-Clustering/blob/main/group.png)
+  
 ###  🛠️ Tech Stack
 - Python
 - Pandas
