@@ -46,6 +46,8 @@ The goal is to identify high-value customers, understand purchasing behavior, an
 Selected:
 👉 K = 3
 
+  ![p](https://github.com/MAHFUZATUL-BUSHRA/RFM-Based-Customer-Segmentation-using-K-Means-Clustering/blob/main/plot.png)
+  
 ### 🔹 5. K-Means Clustering
 - Applied KMeans clustering on scaled RFM data
 - Assigned cluster labels to each customer
