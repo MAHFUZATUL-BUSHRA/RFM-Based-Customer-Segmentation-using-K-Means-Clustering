@@ -51,7 +51,12 @@ Selected:
 ### 🔹 5. K-Means Clustering
 - Applied KMeans clustering on scaled RFM data
 - Assigned cluster labels to each customer
-  
+
+####  Means of the clusters:
+  ![p](https://github.com/MAHFUZATUL-BUSHRA/RFM-Based-Customer-Segmentation-using-K-Means-Clustering/blob/main/mean.png)
+####  Segmentations:
+  ![p](https://github.com/MAHFUZATUL-BUSHRA/RFM-Based-Customer-Segmentation-using-K-Means-Clustering/blob/main/segmentation.png)
+####  Groups:  
   ![p](https://github.com/MAHFUZATUL-BUSHRA/RFM-Based-Customer-Segmentation-using-K-Means-Clustering/blob/main/group.png)
   
 ###  🛠️ Tech Stack
